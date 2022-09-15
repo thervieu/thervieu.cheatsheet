@@ -1,18 +1,42 @@
-{
-    "python1": {
-        "name": "python1",
-        "other_attr": "test1"
+[
+    {
+        "title": "test21",
+        "tags": [
+            "tag1",
+            "tag2",
+            "tag3",
+            "tag4"
+        ],
+        "description": "this is the description of the first test2 object",
+        "schemas": ["img.png", "img2.json"],
+        "urls": ["google.com", "youtube.com"]
     },
-    "python2": {
-        "name": "python2",
-        "other_attr": "test2"
+    {
+        "title": "test22",
+        "tags": [
+            "tag1"
+        ],
+        "description": "this is the description of the second test2 object",
+        "schemas": [],
+        "urls": ["google.com"]
     },
-    "python3": {
-        "name": "python3",
-        "other_attr": "test3"
+    {
+        "title": "test23",
+        "tags": [
+            "tag2"
+        ],
+        "description": "this is the description of the thired test2 object",
+        "schemas": [],
+        "urls": []
     },
-    "python4": {
-        "name": "python4",
-        "other_attr": "test4"
+    {
+        "title": "test24",
+        "tags": [
+            "tag3",
+            "tag4"
+        ],
+        "description": "this is the description of the last test2 object",
+        "schemas": ["imageoui.png"],
+        "urls": ["test.com"]
     }
-}
+]
